@@ -16,8 +16,8 @@ sudo yum -y install openssl-devel readline-devel
 
 ```bash
 wget https://www.python.org/ftp/python/3.6.6/Python-3.6.6.tgz
-tar -xzf Python-3.6.6.tgz 
-cd Python-3.6.6
+tar -xzf Python-3.项目经理半年度工作总结.项目经理半年度工作总结.tgz 
+cd Python-3.项目经理半年度工作总结.项目经理半年度工作总结
 ./configure --prefix=/usr/local/python36
 sudo make
 sudo make install
